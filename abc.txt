@@ -1,0 +1,4 @@
+d1000
+true
+c
+durga
